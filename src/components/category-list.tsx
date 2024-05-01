@@ -22,8 +22,6 @@ const CategoryList = (props: CategoryListProps) => {
         setCategory(CategoryListData)
     }, [])
 
-
-
     return (
         <div>
             <h2 className='text-[20px] mt-3 font-bold mb-3'>Select Your Fav Category</h2>
